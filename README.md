@@ -1,6 +1,6 @@
 # Library & Student Resource Management System (LSRMS)
 
-A modular, command-line Java application built for the **Programming in Java** course evaluation[cite: 1].
+A modular, command-line Java application built for the **Programming in Java** course evaluation.
 
 ## Features
 - **Book Management:** View and add catalog entries.
